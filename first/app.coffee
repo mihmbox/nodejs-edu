@@ -2,4 +2,4 @@
 f = (msg) ->
   console.log(msg)
 
-f('Hello')
+f('Hello world')
