@@ -1,4 +1,0 @@
-nodejs-edu
-==========
-
-nodejs education
